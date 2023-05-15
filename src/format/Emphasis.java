@@ -1,4 +1,4 @@
-package Format;
+package format;
 
 public enum Emphasis {
 

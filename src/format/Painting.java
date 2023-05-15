@@ -1,4 +1,4 @@
-package Format;
+package format;
 
 public class Painting {
     private static final Format ROJO = new Format(Color.ROJO, Decorate.NEGRITA, Emphasis.BRILLANTE);

@@ -1,4 +1,4 @@
-package Format;
+package format;
 
 public class Manual {
     public static void main(String[] args) {

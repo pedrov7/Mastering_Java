@@ -1,6 +1,4 @@
-package Format;
-
-import javax.swing.plaf.SeparatorUI;
+package format;
 
 public class Format {
     private static final String PREFIX = "\033[";
